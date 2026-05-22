@@ -3,7 +3,7 @@ title: Welcome to startet test
 hidden: false
 ---
 <Callout icon="📘" theme="info">
-  **Template:**  Delete this call dfdfgfout and edit this page with your content and links.
+  **Template:**  Delete this call dfdfgfout and edit this page with your content andfdsfdfsfd links.
 </Callout>
 
 <Cards>
